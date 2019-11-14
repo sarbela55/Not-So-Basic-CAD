@@ -19,4 +19,4 @@ Focus: These two assignment are a reintroduction to Solidworks and CAD. I had to
 
 End Result:
 
-Challenges: 
+Challenges: The only issue I had on these assignments 
