@@ -1,6 +1,6 @@
 # Not-So-Basic-CAD
 
-This repository hold the techniques and final designs of four assignment in CAD.
+This repository holds the techniques and final designs of four assignment in CAD.
 
 Assignment #1: Sweeps and Lofts
 
