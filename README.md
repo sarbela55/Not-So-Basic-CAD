@@ -24,3 +24,5 @@ End Result:
 ![Alittlepractice](media/ALittlePractice.PNG)
 
 Challenges: The only issue I had on these assignments was getting the mates and fillets to work.
+
+Picture Creit @bewing09 https://github.com/bewing09/NotSoBasicCad/blob/master/README.md
