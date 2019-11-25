@@ -28,6 +28,4 @@ Picture Credit @bewing09 https://github.com/bewing09/NotSoBasicCad/blob/master/R
 
 ### Challenges:
 The only issue I had on these assignments was getting the mates and fillets to work.
-=======
-### Challenges: The only issue I had on these assignments was getting the mates and fillets to work.
 
