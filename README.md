@@ -9,7 +9,7 @@ of the assignment has you designing a candelstick holder, using a sweep to get t
 
 End Result: 
 ![lofts](media/lofts.PNG)
-![lofts](media/lofts.PNG)
+![sweeps](media/sweeps.PNG)
 
 Challenges:
 I had trouble getting the candelstick handle perfect( the handle would extrude and sweep, but wouldn't fit and lock into the main body of the holder.) Getting the cut/indent on the bottom of the hammer head was also hard to get. I had to align the triangle and rectangle I was extruding perfectly, or it wouldn't loft the cut.
