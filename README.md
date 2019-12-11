@@ -19,7 +19,7 @@ I had trouble getting the candelstick handle perfect( the handle would extrude a
 
 ## Assignment #2: A Little Practice
 
-These two assignment are a reintroduction to Solidworks and CAD. I had to design a circular pressure plate, and a rounded, hollow block, with a extruded hole on the top.
+These two assignment are a reintroduction to Solidworks and CAD. I had to design a circular pressure plate, and a rounded, hollow block, with a extruded hole on the top. 
 
 ### End Result: 
 ![lego](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lego.PNG)
@@ -27,5 +27,5 @@ These two assignment are a reintroduction to Solidworks and CAD. I had to design
 Picture Credit @bewing09 https://github.com/bewing09/NotSoBasicCad/blob/master/README.md
 
 ### Challenges:
-The only issue I had on these assignments was getting the mates and fillets to work.
+The only issue I had on these assignments was getting the mates and fillets to work. When doing the fillets, I figured out that I had to 
 
