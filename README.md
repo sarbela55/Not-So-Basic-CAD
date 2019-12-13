@@ -8,8 +8,8 @@ Design a hammer head using the sweep and loft tools to give the hammer head the 
 of the assignment has you designing a candelstick holder, using a sweep to get the curve of the handle right.
 
 ### End Result: 
-![lofts](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lofts.PNG)
-![sweeps](https://github.com/bewing09/NotSoBasicCad/blob/master/media/sweeps.PNG)
+##### ![lofts](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lofts.PNG)
+##### ![sweeps](https://github.com/bewing09/NotSoBasicCad/blob/master/media/sweeps.PNG)
 credit for these images goes to [Ben Ewing](https://github.com/bewing09/NotSoBasicCad)
 
 ### Challenges:
@@ -22,8 +22,8 @@ I had trouble getting the candelstick handle perfect( the handle would extrude a
 These two assignment are a reintroduction to Solidworks and CAD. I had to design a circular pressure plate, and a rounded, hollow block, with a extruded hole on the top. I used fillets on both assignments. The longest part of this assignment was hollowing out the inside of the box. I figured out how to fix this problem quickly though, as the assignment wasn't very challenging. 
 
 ### End Result: 
-![lego](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lego.PNG)
-![Alittlepractice](https://github.com/bewing09/NotSoBasicCad/blob/master/media/ALittlePractice.PNG)
+##### ![lego](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lego.PNG)
+##### ![Alittlepractice](https://github.com/bewing09/NotSoBasicCad/blob/master/media/ALittlePractice.PNG)
 credit for these images goes to [Ben Ewing](https://github.com/bewing09/NotSoBasicCad)
 
 ### Challenges:
