@@ -19,13 +19,13 @@ I had trouble getting the candelstick handle perfect( the handle would extrude a
 
 ## Assignment #2: A Little Practice
 
-These two assignment are a reintroduction to Solidworks and CAD. I had to design a circular pressure plate, and a rounded, hollow block, with a extruded hole on the top. 
+These two assignment are a reintroduction to Solidworks and CAD. I had to design a circular pressure plate, and a rounded, hollow block, with a extruded hole on the top. I used fillets on both assignments. The longest part of this assignment was hollowing out the inside of the box. I figured out how to fix this problem quickly though, as the assignment wasn't very challenging. 
 
 ### End Result: 
 ![lego](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lego.PNG)
 ![Alittlepractice](https://github.com/bewing09/NotSoBasicCad/blob/master/media/ALittlePractice.PNG)
-Picture Credit @bewing09 https://github.com/bewing09/NotSoBasicCad/blob/master/README.md
+credit for these images goes to [Ben Ewing](https://github.com/bewing09/NotSoBasicCad)
 
 ### Challenges:
-The only issue I had on these assignments was getting the mates and fillets to work. When doing the fillets, I figured out that I had to 
+The only issue I had on these assignments was getting the mates and fillets to work. When doing the fillets, I figured out that the most effective way to click the side you want to fillet, is to zoom in and select the edge of the side, not the actual side itself.
 
