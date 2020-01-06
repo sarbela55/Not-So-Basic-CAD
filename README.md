@@ -8,8 +8,8 @@ Design a hammer head using the sweep and loft tools to give the hammer head the 
 of the assignment has you designing a candelstick holder, using a sweep to get the curve of the handle right.
 
 ### End Result: 
-##### ![lofts](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lofts.PNG)
-##### ![sweeps](https://github.com/bewing09/NotSoBasicCad/blob/master/media/sweeps.PNG)
+![lofts](https://github.com/bewing09/NotSoBasicCad/blob/master/media/lofts.PNG)
+![sweeps](https://github.com/bewing09/NotSoBasicCad/blob/master/media/sweeps.PNG)
 credit for these images goes to [Ben Ewing](https://github.com/bewing09/NotSoBasicCad)
 
 ### Challenges:
